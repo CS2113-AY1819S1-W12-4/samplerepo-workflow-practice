@@ -1,4 +1,4 @@
-# Jin Minjia
+# Minjia
 
 ## Education
 Y2 in CEG. So fine i've updated this cos of comments.
