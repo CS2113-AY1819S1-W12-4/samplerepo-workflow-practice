@@ -1,7 +1,7 @@
 # Jin Minjia
 
 ## Education
-Y2 in CEG.
+Y2 in CEG. So fine i've updated this cos of comments.
 
 ## Work Experience
 
