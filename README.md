@@ -7,3 +7,4 @@ This is a team repo for members of the team {Team ID}
 setting
 testing for canvas
 other one
+settings
